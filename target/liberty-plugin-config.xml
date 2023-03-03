@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liberty-plugin-config>
+    <installDirectory>/home/anasnounas/Projects/projects_managment/target/liberty/wlp</installDirectory>
+    <serverDirectory>/home/anasnounas/Projects/projects_managment/target/liberty/wlp/usr/servers/projects_managmentServer</serverDirectory>
+    <userDirectory>/home/anasnounas/Projects/projects_managment/target/liberty/wlp/usr</userDirectory>
+    <serverOutputDirectory>/home/anasnounas/Projects/projects_managment/target/liberty/wlp/usr/servers/projects_managmentServer</serverOutputDirectory>
+    <serverName>projects_managmentServer</serverName>
+    <configDirectory>/home/anasnounas/Projects/projects_managment/src/main/liberty/config</configDirectory>
+    <configFile>/home/anasnounas/Projects/projects_managment/src/main/liberty/config/server.xml</configFile>
+    <appsDirectory>apps</appsDirectory>
+    <looseApplication>true</looseApplication>
+    <stripVersion>false</stripVersion>
+    <installAppPackages>project</installAppPackages>
+    <applicationFilename>projects_managment.war.xml</applicationFilename>
+    <assemblyArtifact>
+        <groupId>io.openliberty</groupId>
+        <artifactId>openliberty-runtime</artifactId>
+        <version>23.0.0.1</version>
+        <type>zip</type>
+    </assemblyArtifact>
+    <assemblyArchive>/home/anasnounas/.m2/repository/io/openliberty/openliberty-runtime/23.0.0.1/openliberty-runtime-23.0.0.1.zip</assemblyArchive>
+    <assemblyInstallDirectory>/home/anasnounas/Projects/projects_managment/target/liberty</assemblyInstallDirectory>
+    <refresh>false</refresh>
+    <installAppsConfigDropins>/home/anasnounas/Projects/projects_managment/target/liberty/wlp/usr/servers/projects_managmentServer/configDropins/defaults/install_apps_configuration_1491924271.xml</installAppsConfigDropins>
+    <projectType>war</projectType>
+    <warSourceDirectory>/home/anasnounas/Projects/projects_managment/src/main/webapp</warSourceDirectory>
+</liberty-plugin-config>

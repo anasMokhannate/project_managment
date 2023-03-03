@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+    <dir sourceOnDisk="/home/anasnounas/Projects/projects_managment/src/main/webapp" targetInArchive="/"/>
+    <dir sourceOnDisk="/home/anasnounas/Projects/projects_managment/target/classes" targetInArchive="/WEB-INF/classes"/>
+    <file sourceOnDisk="/home/anasnounas/Projects/projects_managment/target/tmp/META-INF/MANIFEST.MF" targetInArchive="/META-INF/MANIFEST.MF"/>
+</archive>
